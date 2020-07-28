@@ -7,10 +7,10 @@ Silicons is designed to be flat, yet detailed. My main inspirations while develo
 ## Todo
 | Task                                                                             | Status      |
 |----------------------------------------------------------------------------------|-------------|
-| Have as many icons as Deepin                                                     | Started     |
+| Have as many icons as Adwaita                                                    | Started     |
 | Have as many icons as Papirus                                                    | Not started |
 | Write installer script                                                           | Not started |
-| Create stable build (have as many icons as Deepin and have an installer script)  | Started     |
+| Create stable build (have as many icons as Adwaita and have an installer script) | Started     |
 | Create repo for most major distributions                                         | Not started |
 | Create README.md                                                                 | Started     |
 | Create icon preview image                                                        | Not started |
