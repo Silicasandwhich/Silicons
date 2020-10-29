@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1.62673,0,0,1.62673,-13.4567,-12.6683)">
+        <path d="M13.174,10.247L28.819,10.247L32.878,14.305L32.878,34.836L13.174,34.836L13.174,10.247Z" style="fill:rgb(201,201,201);"/>
+        <g>
+            <g transform="matrix(0.960412,0,0,0.960412,0.543266,1.35696)">
+                <path d="M32.142,13.124C32.142,12.209 31.4,11.466 30.485,11.466L15.381,11.466C14.466,11.466 13.723,12.209 13.723,13.124L13.723,32.619C13.723,33.534 14.466,34.277 15.381,34.277L30.485,34.277C31.4,34.277 32.142,33.534 32.142,32.619L32.142,13.124Z" style="fill:rgb(255,228,175);"/>
+            </g>
+            <g>
+                <path d="M19.456,12.442L19.456,20.737" style="fill:none;stroke:black;stroke-width:0.11px;"/>
+                <path d="M19.456,26.464L19.456,34.216" style="fill:none;stroke:black;stroke-width:0.11px;"/>
+                <path d="M25.616,34.216L25.616,26.402" style="fill:none;stroke:black;stroke-width:0.11px;"/>
+                <path d="M25.616,20.987L25.616,12.442" style="fill:none;stroke:black;stroke-width:0.11px;"/>
+                <g transform="matrix(1.46296,0,0,0.64181,-10.9593,6.42244)">
+                    <path d="M28.926,29.802L24.952,32.096L22.917,32.13L20.785,32.04L16.909,29.802" style="fill:rgb(255,228,175);stroke:black;stroke-width:0.1px;"/>
+                </g>
+                <g transform="matrix(1.46296,0,0,0.64181,-10.9593,6.42244)">
+                    <path d="M16.909,22.864L20.757,20.643L22.917,20.631L25.049,20.626L28.926,22.864" style="fill:rgb(255,228,175);stroke:black;stroke-width:0.1px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
